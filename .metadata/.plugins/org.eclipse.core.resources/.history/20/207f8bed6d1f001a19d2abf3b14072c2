@@ -1,0 +1,10 @@
+package com.np.log4j;
+
+public class MyLogger {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

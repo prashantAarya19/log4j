@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+E:\WorkSpace\Log4j_1\.metadata\.plugins\org.eclipse.jdt.core
+1909383723.index
+50168471.index
+4151000013.index
+341124672.index
+2478980796.index
